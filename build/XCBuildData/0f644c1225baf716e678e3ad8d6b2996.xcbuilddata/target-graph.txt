@@ -1,0 +1,10 @@
+Target dependency graph (4 targets)
+Target 'ALL_BUILD' in project 'FiveLetters'
+➜ Explicit dependency on target 'ZERO_CHECK' in project 'FiveLetters'
+➜ Explicit dependency on target 'FiveLetters' in project 'FiveLetters'
+Target 'FiveLetters' in project 'FiveLetters'
+➜ Explicit dependency on target 'ZERO_CHECK' in project 'FiveLetters'
+➜ Explicit dependency on target 'FiveLetters_autogen' in project 'FiveLetters'
+Target 'FiveLetters_autogen' in project 'FiveLetters'
+➜ Explicit dependency on target 'ZERO_CHECK' in project 'FiveLetters'
+Target 'ZERO_CHECK' in project 'FiveLetters' (no dependencies)
