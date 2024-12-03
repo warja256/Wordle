@@ -1,0 +1,5 @@
+/Users/varvarakusaeva/Documents/FiveLetters/build/Qt_6_7_2_for_iOS_177de7/CMakeFiles/FiveLetters.dir
+/Users/varvarakusaeva/Documents/FiveLetters/build/Qt_6_7_2_for_iOS_177de7/CMakeFiles/install.dir
+/Users/varvarakusaeva/Documents/FiveLetters/build/Qt_6_7_2_for_iOS_177de7/CMakeFiles/FiveLetters_autogen.dir
+/Users/varvarakusaeva/Documents/FiveLetters/build/Qt_6_7_2_for_iOS_177de7/CMakeFiles/ALL_BUILD.dir
+/Users/varvarakusaeva/Documents/FiveLetters/build/Qt_6_7_2_for_iOS_177de7/CMakeFiles/ZERO_CHECK.dir
