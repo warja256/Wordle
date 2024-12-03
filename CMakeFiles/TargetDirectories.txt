@@ -1,5 +1,9 @@
-/Users/varvarakusaeva/Documents/FiveLetters/build/Qt_6_7_2_for_iOS_177de7/CMakeFiles/FiveLetters.dir
-/Users/varvarakusaeva/Documents/FiveLetters/build/Qt_6_7_2_for_iOS_177de7/CMakeFiles/install.dir
-/Users/varvarakusaeva/Documents/FiveLetters/build/Qt_6_7_2_for_iOS_177de7/CMakeFiles/FiveLetters_autogen.dir
-/Users/varvarakusaeva/Documents/FiveLetters/build/Qt_6_7_2_for_iOS_177de7/CMakeFiles/ALL_BUILD.dir
-/Users/varvarakusaeva/Documents/FiveLetters/build/Qt_6_7_2_for_iOS_177de7/CMakeFiles/ZERO_CHECK.dir
+/Users/varvarakusaeva/Documents/FiveLetters/build/Qt_6_7_2_for_macOS-Debug/CMakeFiles/FiveLetters.dir
+/Users/varvarakusaeva/Documents/FiveLetters/build/Qt_6_7_2_for_macOS-Debug/CMakeFiles/edit_cache.dir
+/Users/varvarakusaeva/Documents/FiveLetters/build/Qt_6_7_2_for_macOS-Debug/CMakeFiles/rebuild_cache.dir
+/Users/varvarakusaeva/Documents/FiveLetters/build/Qt_6_7_2_for_macOS-Debug/CMakeFiles/list_install_components.dir
+/Users/varvarakusaeva/Documents/FiveLetters/build/Qt_6_7_2_for_macOS-Debug/CMakeFiles/install.dir
+/Users/varvarakusaeva/Documents/FiveLetters/build/Qt_6_7_2_for_macOS-Debug/CMakeFiles/install/local.dir
+/Users/varvarakusaeva/Documents/FiveLetters/build/Qt_6_7_2_for_macOS-Debug/CMakeFiles/install/strip.dir
+/Users/varvarakusaeva/Documents/FiveLetters/build/Qt_6_7_2_for_macOS-Debug/CMakeFiles/FiveLetters_autogen_timestamp_deps.dir
+/Users/varvarakusaeva/Documents/FiveLetters/build/Qt_6_7_2_for_macOS-Debug/CMakeFiles/FiveLetters_autogen.dir
